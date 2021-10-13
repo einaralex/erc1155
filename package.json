@@ -1,0 +1,26 @@
+{
+  "name": "y",
+  "version": "y",
+  "description": "y",
+  "main": "y",
+  "repository": "y",
+  "author": "y",
+  "license": "y",
+  "private": true,
+  "scripts": {
+    "compile": "truffle compile",
+    "deploy:test": "truffle deploy --network ropsten",
+    "console:test": "truffle console --network ropsten",
+    "lint": "solhint contracts/HomelessPoker.sol",
+    "migrate": "truffle migrate",
+    "rpc": "truffle develop",
+    "test": "truffle test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "truffle": "^5.4.14"
+  },
+  "devDependencies": {
+    "truffle-assertions": "^0.9.2"
+  }
+}
