@@ -1,11 +1,10 @@
 {
-  "name": "y",
-  "version": "y",
-  "description": "y",
-  "main": "y",
-  "repository": "y",
-  "author": "y",
-  "license": "y",
+  "name": "ERC1155",
+  "version": "0.0.1",
+  "description": "",
+  "main": "",
+  "repository": "",
+  "author": "Einar Alexander Eymundsson",
   "private": true,
   "scripts": {
     "compile": "truffle compile",
